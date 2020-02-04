@@ -1,5 +1,5 @@
 [package]
-name = "rust_start"
+name = "basic syntax"
 version = "0.1.0"
 authors = ["vscode"]
 edition = "2018"
